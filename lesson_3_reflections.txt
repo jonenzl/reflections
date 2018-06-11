@@ -19,3 +19,9 @@ instead of another?
     without affecting the original project. Clones are also a copy or a repository, but
     any changes that are pushed will modify the original. Branches allow you to
     experiment within an existing repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+    The benefit of having a copy of the last known state of the remote stored locally is
+    that you can continue to work and make changes offline. You can then merge these changes
+    at a later time.
