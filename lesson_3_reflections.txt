@@ -11,3 +11,11 @@ stay up-to-date with your remote repository?
     You might want to always pull changes manually because you may want to have a different
     local version of a file that won't be overwritten by Git automatically at a time that
     might not be beneficial.
+
+Describe the differences between forks, clones, and branches. When would you use one
+instead of another?
+
+    Forks are a copy of a repository, allowing you to freely experiment with changes
+    without affecting the original project. Clones are also a copy or a repository, but
+    any changes that are pushed will modify the original. Branches allow you to
+    experiment within an existing repository.
