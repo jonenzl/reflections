@@ -32,3 +32,13 @@ How would you collaborate without using Git or GitHub? What would be easier, and
     and copy, paste, and delete changes to combine the files into a master version. It would be easier
     in that you wouldn't have to figure out how to use Git or GitHub. However, it would be more difficult
     to keep the master file up to date and free of errors.
+
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+
+    You might want to make changes in a separate branch rather than in the master
+    if you want to work/experiment on a new feature that may or may not be
+    incorporated into the master version. The benefit of using a separate branch
+    is that the commits will not be incorporated into the master until you want
+    them to. The downside is that it is more complicated to keep your branch up to
+    date with the master branch and to merge the branch and master.
